@@ -8,7 +8,7 @@ This repository demonstrates how Pivotal Tracker notifies AWS API Gateway which 
 ## Setting Up
 Create an incoming WebHooks in Slack
 1. Select the channel to post messages
-2. Copy the WebHook URL eg. https://hooks.slack.com/services/TCH1UHD61/BHU1154DN/JdAaGDgtOom1tg1111UKPZq
+2. Copy the WebHook URL eg. https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
 3. Customize your icon or use the Pivotal Track icon <img src="./pivotal-track-icon.png" width="20" height="20"> (optional)
 
 For more information, refer to this documentaion on [incoming webhooks](https://api.slack.com/incoming-webhooks)
